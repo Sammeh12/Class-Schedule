@@ -1,0 +1,23 @@
+h1 {
+  font-family: sans-serif;
+}
+table,
+table {
+  border: 1px solid #000000;
+  background-color: lightcyan;
+  font-family: sans-serif;
+}
+td {
+  border: 1px solid #000000;
+}
+td {
+  height: 150px;
+  width: 200px;
+}
+table,
+table {
+  text-align: center;
+  border: 1px solid #000000;
+  background-color: lightcyan;
+  font-family: sans-serif;
+}
